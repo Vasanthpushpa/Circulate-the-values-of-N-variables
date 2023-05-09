@@ -24,15 +24,16 @@ End the program.
 #Developed by: VASANTH P
 #RegisterNumber: 212222240113
 def circulate():
-    list1=eval(input())
-    n=int(input())
-    result=list1[n:]+list1[:n]
-    print("After circulating the values are:",result) 
+    circul=l[n:]+l[:n]
+    print('After circulating the values are:',circul)
+l= eval(input())
+n= eval(input())
 
 ```
 
 ## Output:
-![image](https://github.com/Vasanthpushpa/Circulate-the-values-of-N-variables/assets/119291100/a81eabe8-2e4d-458d-b2a8-738d53191cba)
+![image](https://github.com/Vasanthpushpa/Circulate-the-values-of-N-variables/assets/119291100/4506b044-95b6-4073-90e5-686254c8df27)
+
 
 
 ## Result:
